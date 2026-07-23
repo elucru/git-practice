@@ -1,3 +1,4 @@
 # Asta e doar in Working Dir
 
 tot joi am facut si asta dupa ce am creat branch ul
+si asta de asemenea
